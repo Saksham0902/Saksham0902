@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://www.hackerrank.com/saksham0902"><img alt="Website" src="https://img.shields.io/badge/Website-My Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/saksham-mathur-683a2b166"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vipul%20Khandelwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/saksham-mathur-683a2b166"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saksham%20Mathur-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:sakshammathur0209@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakshammathur0209@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
