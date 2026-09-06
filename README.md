@@ -157,17 +157,15 @@ now run natively on-platform.
 ### Email Preflight
 <sub>JavaScript · Lightning Web Components · Jest · <i>private repo</i></sub>
 
-Marketing Cloud Engagement validated emails before send. Marketing Cloud Next doesn't — so broken
-emails ship, and you find out by reading engagement data afterwards.
+Marketing emails fail in ways you only find out about afterwards, by reading the engagement data: a
+merge field that rendered as raw syntax, a missing unsubscribe link, an image with no alt text, a
+layout that collapsed in Outlook.
 
-A **read-only** sidebar panel that runs **77 checks across 20 categories** the moment it opens:
-broken merge fields, missing unsubscribe links, images with no alt text, Outlook layout breakage,
-Gmail clipping.
+A **read-only** sidebar panel that runs **77 checks across 20 categories** the moment it opens, and
+grades each finding as an error, a warning or a note.
 
 Read-only is the whole design: it cannot edit your content and cannot block a send. The worst case
 is a wrong report, never a damaged email.
-
-**Now used by ~80% of our marketing projects.**
 
 </td>
 <td width="50%" valign="top">
@@ -231,7 +229,7 @@ It detects tags already present and rewrites them in place.
 ![Blocking](https://img.shields.io/badge/Candidate_pair_reduction-355×-26d0ce?style=for-the-badge&labelColor=1a2980)
 ![Coverage](https://img.shields.io/badge/Apex_test_coverage-93%25-26d0ce?style=for-the-badge&labelColor=1a2980)
 ![Checks](https://img.shields.io/badge/Email_checks_shipped-77-26d0ce?style=for-the-badge&labelColor=1a2980)
-![Adoption](https://img.shields.io/badge/Internal_adoption-~80%25-26d0ce?style=for-the-badge&labelColor=1a2980)
+![Tests](https://img.shields.io/badge/Jest_%2B_Apex_tests-130%2B-26d0ce?style=for-the-badge&labelColor=1a2980)
 
 </div>
 
